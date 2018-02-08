@@ -9,6 +9,6 @@ spring:
       overrideSystemProperties: false #覆盖系统属性 false不覆盖
 
 test:
-  my name is czlxming # http://config:8888/zuul/test
+  my name is zuul-aerver  # http://config:8888/zuul/test
 
   

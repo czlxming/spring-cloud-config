@@ -1,5 +1,5 @@
 info:
-  profile: zuul-server-pre
+  name: producer-server-test-local
 test:
     my name is zuul-server-pre  # http://config:8888/zuul/test
 

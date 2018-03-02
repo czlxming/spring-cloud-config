@@ -1,3 +1,7 @@
+info:
+  profile: zuul-server
+test:
+  my name is zuul-server  # http://config:8888/zuul/test
 spring:
   jpa:
     database: HSQL #http://config:8888/zuul/spring
@@ -7,8 +11,4 @@ spring:
       failFast: true
       overrideNone: true #覆盖非系统属性　true不覆盖
       overrideSystemProperties: false #覆盖系统属性 false不覆盖
-
-test:
-  my name is zuul-aerver  # http://config:8888/zuul/test
-
   

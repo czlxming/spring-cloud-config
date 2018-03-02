@@ -1,6 +1,6 @@
 info:
-  name: producer-server-test-local
+  name: producer-server-test-git
 test:
-    my name is zuul-server-pre  # http://config:8888/zuul/test
+    my name is producer-server-test-git 
 
   
